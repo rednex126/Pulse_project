@@ -1,0 +1,37 @@
+{
+  "name": "pulse_project",
+  "version": "1.0.0",
+  "description": "Project at webdev course",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rednex126/Pulse_project.git"
+  },
+  "author": "Yurii Pavlenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rednex126/Pulse_project/issues"
+  },
+  "homepage": "https://github.com/rednex126/Pulse_project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.59.3"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}
