@@ -8,4 +8,17 @@
     font-size: 20px;
     color: #FFFFFF;
   }
+    .error {
+      border: 1px solid red;
+  
+      label.error {
+        color: red;
+        font-size: 12px;
+        font-weight: 400;
+        margin-top: 5px;
+        display: block;
+      }
+  
+      ;
+    }
 }
