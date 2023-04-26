@@ -26,7 +26,10 @@
     "sass": "^1.59.3"
   },
   "dependencies": {
-    "gulp": "^4.0.2"
+    "animate.css": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0"
   },
   "browserslist": [
     "last 1 version",
